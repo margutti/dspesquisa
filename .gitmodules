@@ -1,0 +1,3 @@
+[submodule "front-web"]
+  path = front-web
+  url = git://github.com/margutti/dspesquisa/
