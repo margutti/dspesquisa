@@ -1,6 +1,0 @@
-[submodule "front-web"]
-  path = front-web
-  url = git://github.com/margutti/dspesquisa/
-[submodule "front-mobile"]
-  path = front-mobile
-  url = git://github.com/margutti/dspesquisa/
